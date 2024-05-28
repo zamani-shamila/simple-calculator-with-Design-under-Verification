@@ -1,0 +1,138 @@
+{F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/shifter.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/shifter.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/alu_output_stage.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/alu_output_stage.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu_output_stage
+
+Top level modules:
+	alu_output_stage
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/testt.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/testt.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package testt_sv_unit
+-- Compiling interface calc_if
+-- Compiling program test
+
+Top level modules:
+	test
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/scoreboard.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/scoreboard.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package scoreboard_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/master.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/master.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package master_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/priority.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/priority.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module priority
+
+Top level modules:
+	priority
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/generator.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/generator.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package generator_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/monitor.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/monitor.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package monitor_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/alu_input_stage.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/alu_input_stage.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu_input_stage
+
+Top level modules:
+	alu_input_stage
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/calc_if.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/calc_if.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package calc_if_sv_unit
+-- Compiling interface calc_if
+
+Top level modules:
+	--none--
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/env.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/env.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package env_sv_unit
+-- Compiling interface calc_if
+
+Top level modules:
+	--none--
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/holdreg.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/holdreg.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module holdreg
+
+Top level modules:
+	holdreg
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/top.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/top.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/calc_request.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/calc_request.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package calc_request_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/calc2_top.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/calc2_top.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module adder
+-- Compiling module alu_input_stage
+-- Compiling module alu_output_stage
+-- Compiling module holdreg
+-- Compiling module mux_out
+-- Compiling module priority
+-- Compiling module shifter
+-- Compiling module calc2_top
+
+Top level modules:
+	calc2_top
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/adder.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/adder.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/mux_out.v} {1 {vlog -work work -vopt -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/mux_out.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_out
+
+Top level modules:
+	mux_out
+
+} {} {}} {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/result.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/university/Concordia/courses/Hardware/Project/final/Last file/code/code/code/result.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package result_sv_unit
+
+Top level modules:
+	--none--
+
+} {} {}}
